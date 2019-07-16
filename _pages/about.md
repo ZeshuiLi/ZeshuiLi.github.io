@@ -17,7 +17,7 @@ Nanjing, Jiangsu 210023, China
 
 Research Interest
 ======
-Mobile Computing, Smart Speaker, Signal Processing.
+Mobile Computing, Smart Speaker, and Signal Processing.
 
 Publication
 ======
@@ -25,4 +25,6 @@ PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed Using 
 
 My Hobby
 ======
-Self balancing robot, Micropython(Pyboard), Raspberry Pi, and STM32.
+1. Self balancing robot
+2. Micropython based on hardware platform such as Pyboard, ESP8266 and ESP32. I'm currently using PyCharm as IDE.
+3. Raspberry Pi
