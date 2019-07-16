@@ -27,6 +27,6 @@ PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed Using 
 
 My Hobby
 ======
-1.Self balancing robot
-2.Micropython based on hardware platform such as Pyboard, ESP8266 and ESP32. I'm currently using PyCharm as IDE.
-3.Raspberry Pi
+1.Self balancing robot  
+2.Micropython based on hardware platform such as Pyboard, ESP8266 and ESP32. I'm currently using PyCharm as IDE.  
+3.Raspberry Pi  
