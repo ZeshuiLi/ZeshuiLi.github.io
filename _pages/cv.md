@@ -24,7 +24,7 @@ Publications
 Teaching Assistant
 ======
 * Fall 2016, Network Security and Intrusion Technology, Nanjing University.  
-* Fall 2017-2018, Digital Design Experiments, Nanjing University.
+* Fall 2017-2019, Digital Design Experiments, Nanjing University.
   
 Awards
 ======
