@@ -27,7 +27,7 @@ Research Interests
 ======
 1.  Mobile Computing  
 2.  Smart Speaker  
-3.  Signal Processing.
+3.  Signal Processing
 
 Project
 ======
