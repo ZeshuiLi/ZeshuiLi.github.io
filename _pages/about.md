@@ -7,14 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is the homepage of Zeshuili. Welcome to share your questions and ideas with me.
+This is the homepage of Zeshui Li. Welcome to share your questions and ideas with me.
 
 Contact
 ======
 Nanjing University Xianlin Campus,
-
 163 Xianlin Avenue, Qixia District,
-
 Nanjing, Jiangsu 210023, China
 
 Research Interest
