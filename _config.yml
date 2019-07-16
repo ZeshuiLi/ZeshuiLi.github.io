@@ -68,9 +68,7 @@ author:
   avatar           : "profile.png"
   bio              : "Phd candidate from Nanjing Uinversity"
   location         : "Nanjing, JiangSu, China"
-  employer         :
   email            :  "zeshuili@163.com"
-  github           : "ZeshuiLi"
 
 # Reading Files
 include:
