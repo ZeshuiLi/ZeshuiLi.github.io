@@ -26,8 +26,7 @@ Nanjing, Jiangsu 210023, China
 Research Interests
 ======
 * Mobile Computing  
-* Smart Speaker  
-* Signal Processing
+* Human Computer Interaction 
 
 Project
 ======
@@ -36,7 +35,7 @@ Project
 
 My Hobby
 ======
-* MicroPython based on hardware platform such as Pyboard, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
+* MicroPython based on hardware platform such as Pyboard, Microbit, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300"></P>
 
 * Self balancing robot
