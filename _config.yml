@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "RealZeshuiLi"
 title_separator          : "-"
 name                     : &name "ZeshuiLi"
-description              : &description "Ph.D Candidate in Nanjing University."
+description              : &description "Ph.D Candidate from Nanjing University."
 url                      : https://zeshuili.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZeshuiLi.github.io"
@@ -53,7 +53,7 @@ atom_feed:
 author:
   name             : "Zeshui Li"
   avatar           : "profile.png"
-  bio              : "Phd candidate from Nanjing Uinversity"
+  bio              : "Ph.D candidate from Nanjing Uinversity"
   location         : "Nanjing, JiangSu, China"
   email            :  "zeshuili@163.com"
 
