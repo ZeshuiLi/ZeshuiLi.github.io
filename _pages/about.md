@@ -10,8 +10,8 @@ redirect_from:
 
 Contact
 ======
-Nanjing University Xianlin Campus,
-163 Xianlin Avenue, Qixia District,
+Nanjing University Xianlin Campus,/
+163 Xianlin Avenue, Qixia District,/
 Nanjing, Jiangsu 210023, China
 
 Research Interest
