@@ -38,10 +38,8 @@ My Hobby
 ======
 1.  MicroPython based on hardware platform such as Pyboard, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300"> 
-</P>
-
-
+  <img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300">   
+</P>  
 2.  Self balancing robot
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobot.jpeg" width="400" height="300" align="center">
