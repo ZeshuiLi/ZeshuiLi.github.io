@@ -17,7 +17,7 @@ Nanjing University Xianlin Campus,
 163 Xianlin Avenue, Qixia District,  
 Nanjing, Jiangsu 210023, China
 
-Research Interest
+Research Interests
 ======
 Mobile Computing, Smart Speaker, and Signal Processing.
 
