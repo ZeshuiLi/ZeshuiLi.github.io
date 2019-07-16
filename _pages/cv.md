@@ -14,15 +14,6 @@ Education
 * B.S.  Taiyuan University of Technology, 2010-2014
 * M.S.  Beijing Institute of Technology,  2014-2016
 * Ph.D  Nanjing Uinversity,               2016-2020 (expected)
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
