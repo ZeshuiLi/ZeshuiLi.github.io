@@ -36,7 +36,7 @@ Project
 
 My Hobby
 ======
-1.  Self balancing robot  
-<img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobot.jpeg" width="400" height="300">  
-2.  MicroPython based on hardware platform such as Pyboard, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.  
-<img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300"> 
+1.  Self balancing robot
+<img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobot.jpeg" width="400" height="300" align="center">  
+2.  MicroPython based on hardware platform such as Pyboard, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
+<img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300" align="center"> 
