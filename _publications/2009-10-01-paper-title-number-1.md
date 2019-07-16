@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "PCIAS: Precise and Contactless Measurement of Instantaneous
+Angular Speed Using a Smartphone"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+excerpt: 'Precise and Contactless Measurement of Instantaneous Angular Speed Using a Smartphone.'
+date: 2019-10-01
+paperurl: 'http://delivery.acm.org/10.1145/3290000/3287055/a177-li.pdf?ip=36.152.24.133&id=3287055&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E180A41DAF8736F97%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1563282545_8aec2855d958ef351c690239b1b9170b'
