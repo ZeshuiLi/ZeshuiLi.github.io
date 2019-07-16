@@ -30,3 +30,4 @@ Awards
 ======
 * 2018 Nanjing Artificial Intelligence Industry Talent Xingzhi Plan Scholarship
 * 2018 Outstanding graduate students of Nanjing University
+* 2019 Supported by the program B for Outstanding PhD candidate of Nanjing University
