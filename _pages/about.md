@@ -41,6 +41,7 @@ My Hobby
   <img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300"> 
 </P>
 
+
 2.  Self balancing robot
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobot.jpeg" width="400" height="300" align="center">
