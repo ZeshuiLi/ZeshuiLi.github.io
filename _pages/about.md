@@ -29,8 +29,8 @@ Mobile Computing, Smart Speaker, and Signal Processing.
 
 Project
 ======
-1.&ensp;SmartInstrument--Smart angular speed instrument based on smartphones.  
-2.&ensp;SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.
+1.  SmartInstrument--Smart angular speed instrument based on smartphones.  
+2.  SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.
 
 My Hobby
 ======
