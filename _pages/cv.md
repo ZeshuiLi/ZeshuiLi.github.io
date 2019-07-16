@@ -23,10 +23,9 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+2018 Nanjing Artificial Intelligence Industry Talent Xingzhi Plan Scholarship
+2018 outstanding graduate students of Nanjing University
