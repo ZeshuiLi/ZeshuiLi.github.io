@@ -1,4 +1,3 @@
----
 title: "PCIAS: Precise and Contactless Measurement of Instantaneous
 Angular Speed Using a Smartphone"
 collection: publications
