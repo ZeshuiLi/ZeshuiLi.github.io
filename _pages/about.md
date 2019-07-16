@@ -29,6 +29,6 @@ Project
 My Hobby
 ======
 1.  Self balancing robot  
-![Image discription]()
+![Self balancing robot](images/SelfBalancingRobot.jpeg)
 2.  Micropython based on hardware platform such as Pyboard, ESP8266 and ESP32. I'm currently using PyCharm as IDE.  
 3.  Raspberry Pi  
