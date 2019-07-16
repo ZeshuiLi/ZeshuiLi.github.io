@@ -11,6 +11,8 @@ This is the homepage of Zeshui Li. Welcome to share your questions and ideas wit
 
 Contact
 ======
+Email: zeshuili@163.com  
+
 Nanjing University Xianlin Campus,  
 163 Xianlin Avenue, Qixia District,  
 Nanjing, Jiangsu 210023, China
