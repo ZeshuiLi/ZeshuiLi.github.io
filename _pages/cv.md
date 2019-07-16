@@ -28,4 +28,4 @@ Teaching
 Awards
 ======
 2018 Nanjing Artificial Intelligence Industry Talent Xingzhi Plan Scholarship
-2018 outstanding graduate students of Nanjing University
+2018 Outstanding graduate students of Nanjing University
