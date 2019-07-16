@@ -25,21 +25,21 @@ Nanjing, Jiangsu 210023, China
 
 Research Interests
 ======
-1.  Mobile Computing  
-2.  Smart Speaker  
-3.  Signal Processing
+* Mobile Computing  
+* Smart Speaker  
+* Signal Processing
 
 Project
 ======
-1.  SmartInstrument--Smart angular speed instrument based on smartphones.  
-2.  SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.
+* SmartInstrument--Smart angular speed instrument based on smartphones.  
+* SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.
 
 My Hobby
 ======
-1.  MicroPython based on hardware platform such as Pyboard, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
+* MicroPython based on hardware platform such as Pyboard, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixel.jpeg" width="400" height="300"></P>
 
-2.  Self balancing robot
+* Self balancing robot
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobot.jpeg" width="400" height="300" align="center"></P>  
 
 
