@@ -17,7 +17,7 @@ Nanjing, Jiangsu 210023, China
 
 Research Interest
 ======
-Mobile Computing, Signal Processing.
+Mobile Computing, Smart Speaker, Signal Processing.
 
 Publication
 ======
