@@ -17,11 +17,11 @@ Nanjing University Xianlin Campus,
 163 Xianlin Avenue, Qixia District,
 Nanjing, Jiangsu 210023, China
 
-Research Intrest
+Research Interest
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
-Research Intrest
+Publication
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
