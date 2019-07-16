@@ -21,12 +21,13 @@ Research Interests
 ======
 Mobile Computing, Smart Speaker, and Signal Processing.
 
-Publication
+Project
 ======
-PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed Using a Smartphone
+1.  PCIAS--Smart angular speed instrument based on smartphone.
+2.  SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.
 
 My Hobby
 ======
-1. Self balancing robot  
-2. Micropython based on hardware platform such as Pyboard, ESP8266 and ESP32. I'm currently using PyCharm as IDE.  
-3. Raspberry Pi  
+1.  Self balancing robot  
+2.  Micropython based on hardware platform such as Pyboard, ESP8266 and ESP32. I'm currently using PyCharm as IDE.  
+3.  Raspberry Pi  
