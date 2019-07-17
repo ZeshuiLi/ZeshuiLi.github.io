@@ -51,9 +51,9 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "Zeshui Li (李泽水)"
+  name             : "Zeshui Li"
   avatar           : "MeLittle.jpg"
-  bio              : "Ph.D candidate from Nanjing Uinversity"
+  bio              : "李泽水"
   location         : "Nanjing, JiangSu, China"
   email            :  "zeshuili@163.com"
 
