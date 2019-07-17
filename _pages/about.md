@@ -37,7 +37,7 @@ Project
 
 My Hobby
 ---
-* Self balancing robot. I'm trying to combine such robot with smartphones to build a mobile platform of smart sensing. [See my self balancing robot in youtube](https://www.youtube.com/watch?v=_J-YQ3ySKJA&list=PLxVt4lPz_cAiK9lSIy2-FKN1Th8wJ7R3r "My self balancing robot")
+* Self balancing robot. I'm trying to combine such robot with smartphones to build a mobile platform for smart sensing. [See my self balancing robot in youtube](https://www.youtube.com/watch?v=_J-YQ3ySKJA&list=PLxVt4lPz_cAiK9lSIy2-FKN1Th8wJ7R3r "My self balancing robot")
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobotLittle.jpeg" width="400" height="300" align="center"></P>  
 
 * MicroPython based on hardware platform such as Pyboard, Microbit, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
