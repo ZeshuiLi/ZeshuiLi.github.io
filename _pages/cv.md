@@ -14,6 +14,8 @@ Education
 * B.S. Taiyuan University of Technology, 2010-2014
 * M.S. Beijing Institute of Technology,  2014-2016
 * Ph.D Nanjing Uinversity, 2016-2020 (expected)
+
+From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/.
   
 Teaching Assistant
 ------
