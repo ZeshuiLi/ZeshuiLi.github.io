@@ -20,7 +20,7 @@ Teaching Assistant
 * Fall 2016, Network Security and Intrusion Technology, Nanjing University.  
 * Fall 2017-2019, Digital Design Experiments, Nanjing University.
   
-Awards
+Awards and Honors
 ------
 * 2018 Nanjing Artificial Intelligence Industry Talent Xingzhi Plan Scholarship
 * 2018 Outstanding graduate students of Nanjing University
