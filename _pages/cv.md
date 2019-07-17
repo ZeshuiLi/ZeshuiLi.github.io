@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ------
-* B.S.  &#160 Taiyuan University of Technology, 2010-2014
+* B.S.  ">"Taiyuan University of Technology, 2010-2014
 * M.S.  Beijing Institute of Technology,  2014-2016
-* Ph.D  Nanjing Uinversity,               &#160 2016-2020 (expected)
+* Ph.D  Nanjing Uinversity,               2016-2020 (expected)
   
 Teaching Assistant
 ------
