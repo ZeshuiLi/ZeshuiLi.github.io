@@ -15,6 +15,8 @@ State Key Laboratory for Novel Software and Technology
 Department of Computer Science and Technology  
 Nanjing University  
 
+I am a member of GPS group. My supervisor is professor Guihai Chen and research assistant Haipeng Dai. I also attend group meeting of associate professor Wei Wang's group.
+
 Contact
 ---
 Email: zeshuili@163.com  
