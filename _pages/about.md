@@ -10,13 +10,13 @@ redirect_from:
 This is the homepage of Zeshui Li. Welcome to share your questions and ideas with me.
 
 Ph.D Candidate
-======
+---
 State Key Laboratory for Novel Software and Technology  
 Department of Computer Science and Technology  
 Nanjing University  
 
 Contact
-======
+---
 Email: zeshuili@163.com  
 
 Nanjing University Xianlin Campus,  
@@ -24,17 +24,17 @@ Nanjing University Xianlin Campus,
 Nanjing, Jiangsu 210023, China
 
 Research Interests
-======
+---
 * Mobile Computing  
 * Human Computer Interaction 
 
 Project
-======
+---
 * SmartInstrument--Smart angular speed instrument based on smartphones.  
 * SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.
 
 My Hobby
-======
+---
 * MicroPython based on hardware platform such as Pyboard, Microbit, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpeg" width="400" height="300"></P>
 
