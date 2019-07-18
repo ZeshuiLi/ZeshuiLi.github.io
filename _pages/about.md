@@ -11,7 +11,7 @@ This is the homepage of Zeshui Li. Welcome to share your questions and ideas wit
 
 Biography
 ---
-Zeshui Li  Ph.D Candidate
+Zeshui Li  Ph.D Candidate  
 State Key Laboratory for Novel Software and Technology  
 Department of Computer Science and Technology  
 Nanjing University  
