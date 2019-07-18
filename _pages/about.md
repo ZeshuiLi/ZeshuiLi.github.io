@@ -15,7 +15,7 @@ State Key Laboratory for Novel Software and Technology
 Department of Computer Science and Technology  
 Nanjing University  
 
-I am a member of GPS group. My supervisor is professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and research assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also attend the group meeting of associate professor [Wei Wang](http://cs.nju.edu.cn/ww/)'s group.
+I am a member of GPS group. I am supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and research assistant [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also attend the group meeting of associate professor [Wei Wang](http://cs.nju.edu.cn/ww/)'s group. From 2011 to 2014, I am a member a [XiaoMing-Lab](http://www.xiaoming-lab.com/)
 
 Contact
 ---
