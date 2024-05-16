@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RealZeshuiLi"
+title                    : "ZeshuiLi"
 title_separator          : "-"
 name                     : &name "ZeshuiLi"
 description              : &description "Ph.D Candidate from Nanjing University."
