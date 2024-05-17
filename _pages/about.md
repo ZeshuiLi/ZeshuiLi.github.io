@@ -18,8 +18,7 @@ From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/)
 
 Research Interests
 ---
-* Mobile Computing  
-* Human Computer Interaction 
+Acoustic sensing, Internet-of-Things 
 
 Projects
 ---
