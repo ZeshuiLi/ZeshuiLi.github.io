@@ -20,12 +20,13 @@ Research Interests
 ---
 Acoustic sensing, Internet-of-Things 
 
-Projects
+Publication
 ---
 * SmartInstrument--Smart angular speed instrument based on smartphones.  
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="400" height="300" align="center"></P>  
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="200" height="150" align="center"></P>
+
 * SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.  
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SmartSonar.jpeg" width="400" height="300" align="center"></P>   
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SmartSonar.jpeg" width="200" height="150" align="center"></P>   
 
 My Hobby
 ---
