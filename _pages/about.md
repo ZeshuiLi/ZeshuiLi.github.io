@@ -31,6 +31,7 @@ PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using 
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
 **ACM IMWUT(Ubicomp)**, 2019<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="200" height="150" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/WX20240517-150434@2x.png" width="280" height="150" align="center"></P>
 
 
 
