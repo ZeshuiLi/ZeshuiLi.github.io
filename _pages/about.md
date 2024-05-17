@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is the homepage of Zeshui Li. Welcome to share your questions and ideas with me.
 
 Biography
 ---
@@ -20,7 +19,7 @@ Research Interests
 * Mobile Computing  
 * Human Computer Interaction 
 
-Project
+Projects
 ---
 * SmartInstrument--Smart angular speed instrument based on smartphones.  
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="400" height="300" align="center"></P>  
