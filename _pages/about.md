@@ -11,13 +11,7 @@ This is the homepage of Zeshui Li. Welcome to share your questions and ideas wit
 
 Biography
 ---
-Zeshui Li  
-Ph.D  
-State Key Laboratory for Novel Software and Technology  
-Department of Computer Science and Technology  
-Nanjing University  
-
-I am supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also have deep cooperation with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
+Zeshui Li is currently a Ph.D graduate from Nanjing University. He is supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). He also has deep cooperation with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
 
 From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
