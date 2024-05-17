@@ -22,7 +22,7 @@ Acoustic sensing, Internet-of-Things
 
 Publication
 ---
-* SmartInstrument--Smart angular speed instrument based on smartphones.  
+* SmartInstrument--Smart angular speed instrument based on smartphones.
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="200" height="150" align="center"></P>
 
 * SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.  
