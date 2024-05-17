@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: ""
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+---
+This is the homepage of Zeshui Li. Welcome to share your questions and ideas with me.
 
 Biography
 ---
