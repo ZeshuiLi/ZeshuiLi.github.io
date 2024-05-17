@@ -15,14 +15,6 @@ Zeshui Li is a recent Ph.D graduate from Nanjing University, and he is looking f
 
 From 2011 to 2014, he is a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
-Contact
----
-Email: zeshuili@163.com  
-
-Nanjing University Xianlin Campus,  
-163 Xianlin Avenue, Qixia District,  
-Nanjing, Jiangsu 210023, China
-
 Research Interests
 ---
 * Mobile Computing  
