@@ -25,15 +25,14 @@ Publication
 PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br />
 **Zeshui Li**, Yang Pan, Haipeng Dai, Wenhao Zhang, Zhen Li, Wei Wang and Guihai Chen.<br />
 **Software: Practice and Experience (SPE)**, 2023<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="200" height="150" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/WX20240517-144632@2x.png" width="550" height="150" align="center"></P>
 
 PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br />
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
 **ACM IMWUT(Ubicomp)**, 2019<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="200" height="150" align="center"></P>
 
-* SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.  
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SmartSonar.jpeg" width="200" height="150" align="center"></P>   
+
 
 My Hobby
 ---
