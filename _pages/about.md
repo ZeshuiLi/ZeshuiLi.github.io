@@ -22,7 +22,9 @@ Acoustic sensing, Internet-of-Things
 
 Publication
 ---
-* SmartInstrument--Smart angular speed instrument based on smartphones.
+PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br />
+**Zeshui Li**, Yang Pan, Haipeng Dai, Wenhao Zhang, Zhen Li, Wei Wang and Guihai Chen.<br />
+**ACM IMWUT(Ubicomp) 2019**<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Testbed-2.jpg" width="200" height="150" align="center"></P>
 
 * SmartSonar--Smart sensing based on acoustic signals emitted and recorded by a smart speaker.  
@@ -32,8 +34,8 @@ My Hobby
 ---
 * Self balancing robot. I'm trying to combine such robot with smartphones to build a mobile platform for smart sensing. 
 [See my self balancing robot at youtube](https://www.youtube.com/watch?v=_J-YQ3ySKJA&list=PLxVt4lPz_cAiK9lSIy2-FKN1Th8wJ7R3r "My self balancing robot")
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobotLittle.jpeg" width="400" height="300" align="center"></P>  
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobotLittle.jpeg" width="200" height="150" align="center"></P>  
 
 * MicroPython based on hardware platform such as Pyboard, Microbit, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
 <p align="center"><img
-src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpeg" width="400" height="300" align="center"></P>
+src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpeg" width="200" height="150" align="center"></P>
