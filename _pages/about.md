@@ -11,7 +11,7 @@ This is the homepage of Zeshui Li. Welcome to share your questions and ideas wit
 
 Biography
 ---
-Zeshui Li is currently a Ph.D graduate from Nanjing University. He is supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). He also has deep cooperation with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
+Zeshui Li is currently a Ph.D graduate from Nanjing University, and he is looking for a postdoctoral position in the field of wireless sensing. Durin his doctoral studies, he is supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). He also has deep cooperation with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
 
 From 2011 to 2014, he is a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
