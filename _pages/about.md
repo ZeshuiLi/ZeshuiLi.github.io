@@ -1,12 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 Biography
 ---
 I am a recent Ph.D graduate from Nanjing University. I am looking for a postdoctoral position in the field of wireless sensing. During my doctoral studies, I am supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also has deep cooperation with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
