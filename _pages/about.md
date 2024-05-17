@@ -13,7 +13,7 @@ Biography
 ---
 Zeshui Li is currently a Ph.D graduate from Nanjing University. He is supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). He also has deep cooperation with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
 
-From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
+From 2011 to 2014, he is a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
 Contact
 ---
