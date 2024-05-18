@@ -27,7 +27,7 @@ Publication
 **Software: Practice and Experience (SPE)**, 2023<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="450" height="120" align="center"></P>
 
-PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br />
+<font color=blue>PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.</font><br />
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
 **ACM IMWUT(Ubicomp)**, 2019<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS1.jpg" width="450" height="180" align="center"></P>
