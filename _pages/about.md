@@ -30,7 +30,7 @@ PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Dise
 PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br />
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
 **ACM IMWUT(Ubicomp)**, 2019<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS.jpg" width="500" height="210" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS1.jpg" width="450" height="180" align="center"></P>
 
 My Hobby
 ---
