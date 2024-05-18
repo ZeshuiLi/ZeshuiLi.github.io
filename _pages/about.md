@@ -35,7 +35,7 @@ Publication
 <font color=blue>Recognizing Driver Talking Direction in Running Vehicles with a Smartphone.<br /></font>
 Haipeng Dai, Alex X. Liu, **Zeshui Li**, Wei Wang, Fengmin Zhang and Chao Dong.<br />
 **IEEE MASS**, 2019<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS1.jpg" width="450" height="180" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/VehicleSpeaker.png" width="720" height="120" align="center"></P>
 
 My Hobby
 ---
