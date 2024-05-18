@@ -22,7 +22,7 @@ Acoustic sensing, Internet-of-Things
 
 Publication
 ---
-* <font color=blue>PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br /></font>
+* <font color=#0099ff>PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br /></font>
 **Zeshui Li**, Yang Pan, Haipeng Dai, Wenhao Zhang, Zhen Li, Wei Wang and Guihai Chen.<br />
 **Software: Practice and Experience (SPE)**, 2023<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="380" height="100" align="center"></P>
@@ -40,7 +40,7 @@ Haipeng Dai, Alex X. Liu, **Zeshui Li**, Wei Wang, Fengmin Zhang and Chao Dong.<
 My Hobby
 ---
 * Self balancing robot. I'm trying to combine such robot with smartphones to build a mobile platform for smart sensing. 
-[See my self balancing robot at youtube](https://www.youtube.com/watch?v=_J-YQ3ySKJA&list=PLxVt4lPz_cAiK9lSIy2-FKN1Th8wJ7R3r "My self balancing robot")
+[See my self balancing robot at youtube.](https://www.youtube.com/watch?v=_J-YQ3ySKJA&list=PLxVt4lPz_cAiK9lSIy2-FKN1Th8wJ7R3r "My self balancing robot")
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/SelfBalancingRobotLittle.jpeg" width="200" height="150" align="center"></P>  
 
 * MicroPython based on hardware platform such as Pyboard, Microbit, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
