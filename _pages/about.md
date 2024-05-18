@@ -27,12 +27,12 @@ Publication
 **Software: Practice and Experience (SPE)**, 2023<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="380" height="100" align="center"></P>
 
-* <font color=blue>PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br /></font>
+* <font color=DodgerBlue>PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br /></font>
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
 **ACM IMWUT(Ubicomp)**, 2019<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS1.jpg" width="450" height="180" align="center"></P>
 
-* <font color=blue>Recognizing Driver Talking Direction in Running Vehicles with a Smartphone.<br /></font>
+* <font color=DodgerBlue>Recognizing Driver Talking Direction in Running Vehicles with a Smartphone.<br /></font>
 Haipeng Dai, Alex X. Liu, **Zeshui Li**, Wei Wang, Fengmin Zhang and Chao Dong.<br />
 **IEEE MASS**, 2019<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/VehicleSpeaker.png" width="600" height="100" align="center"></P>
