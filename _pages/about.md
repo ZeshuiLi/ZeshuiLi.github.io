@@ -27,7 +27,6 @@ PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Dise
 **Software: Practice and Experience (SPE)**, 2023<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="450" height="120" align="center"></P>
 <br />
-<br />
 
 PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br />
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
