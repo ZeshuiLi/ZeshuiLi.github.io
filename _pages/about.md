@@ -32,6 +32,11 @@ Publication
 **ACM IMWUT(Ubicomp)**, 2019<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS1.jpg" width="450" height="180" align="center"></P>
 
+<font color=blue>Recognizing Driver Talking Direction in Running Vehicles with a Smartphone.<br /></font>
+Haipeng Dai, Alex X. Liu, **Zeshui Li**, Wei Wang, Fengmin Zhang and Chao Dong.<br />
+**IEEE MASS**, 2019<br />
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PCIAS1.jpg" width="450" height="180" align="center"></P>
+
 My Hobby
 ---
 * Self balancing robot. I'm trying to combine such robot with smartphones to build a mobile platform for smart sensing. 
