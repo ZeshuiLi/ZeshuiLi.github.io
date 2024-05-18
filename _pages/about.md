@@ -25,7 +25,7 @@ Publication
 PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br />
 **Zeshui Li**, Yang Pan, Haipeng Dai, Wenhao Zhang, Zhen Li, Wei Wang and Guihai Chen.<br />
 **Software: Practice and Experience (SPE)**, 2023<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="450" height="120" align="center"></P><br />
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="450" height="120" align="center"></P>
 
 PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed using a Smartphone.<br />
 **Zeshui Li**, Haipeng Dai, Wei Wang, Alex X. Liu and Guihai Chen.<br />
