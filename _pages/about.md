@@ -40,7 +40,7 @@ Haipeng Dai, Alex X. Liu, **Zeshui Li**, Wei Wang, Fengmin Zhang and Chao Dong.<
 * <font color=DodgerBlue>Design and Implementation of Simple Transistor Tracer Based on LabVIEW.<br /></font>
 **Zeshui Li**, Weiling Liu, and Xiaoming Chang.<br />
 **National Embedded Instrument and SystemTechnology Academic Conference**, 2013<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Transistor.jpg" width="400" height="140" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/Transistor.jpg" width="480" height="170" align="center"></P>
 
 My Hobby
 ---
