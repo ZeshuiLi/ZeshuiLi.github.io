@@ -54,4 +54,4 @@ src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images
 
 * CNC machining. I have a personal CNC machine, which effectively meets the needs of my DIY projects.
 <p align="center"><img
-src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpg" width="240" height="180" align="center"></P>
+src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/CNC.jpg" width="240" height="180" align="center"></P>
