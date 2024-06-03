@@ -51,3 +51,7 @@ My Hobby
 * MicroPython based on hardware platform such as Pyboard, Microbit, ESP8266 and ESP32. A NeoPixel led ring drived by ESP8266 is shown below.
 <p align="center"><img
 src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpeg" width="240" height="180" align="center"></P>
+
+* CNC machining. I have a personal CNC machine, which effectively meets the needs of my DIY projects.
+<p align="center"><img
+src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpeg" width="240" height="180" align="center"></P>
