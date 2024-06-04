@@ -12,7 +12,7 @@ This is the homepage of Zeshui Li. Welcome to share your questions and ideas wit
 
 Biography
 ---
-I am a recent Ph.D graduate from Nanjing University, seeking a <font color=red>postdoctoral position</font> in the field of <font color=red>wireless sensing</font>. During my doctoral studies, I was supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also collaborated extensively with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
+I am a recent Ph.D graduate from Nanjing University, seeking a <font color=red>postdoctoral position</font> in the field of <font color=red>wireless sensing and human-computer interaction</font>. During my doctoral studies, I was supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also collaborated extensively with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
 
 From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
@@ -22,7 +22,7 @@ Wireless sensing, Internet-of-Things
 
 Publication
 ---
-* <font color=DodgerBlue>PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br /></font>
+* PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br />
 **Zeshui Li**, Yang Pan, Haipeng Dai, Wenhao Zhang, Zhen Li, Wei Wang and Guihai Chen.<br />
 **Software: Practice and Experience (SPE)**, 2023<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/PDGait.png" width="380" height="100" align="center"></P>
