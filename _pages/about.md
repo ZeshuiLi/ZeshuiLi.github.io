@@ -52,6 +52,10 @@ My Hobby
 <p align="center"><img
 src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/NeoPixelLittle.jpeg" width="240" height="180" align="center"></P>
 
-* CNC machining. I have a personal CNC machine, which effectively meets the needs of my DIY projects.
+* CNC machine. I have a personal CNC machine, which effectively meets the needs of my DIY projects.
 <p align="center"><img
 src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/CNC.jpg" width="240" height="180" align="center"></P>
+
+* 3D printer. The 3D printer could help me make mechanical parts for the self-balancing robots and toys for my children.
+<p align="center"><img
+src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/3Dprinter.gif" width="240" height="135" align="center"></P>
