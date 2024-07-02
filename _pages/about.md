@@ -17,7 +17,7 @@ From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/)
 
 Publication
 ---
-* <font color=DodgerBlue>mP-Gait: Fine-grained Parkinson’s Disease Gait Impairment Assessment with Robust Feature Analysis.<br /></font>
+* <font color=DodgerBlue>mP-Gait: Fine-grained Parkinson’s Disease Gait Impairment Assessment with Robust Feature Analysis. (to appear)<br /></font>
 Wenhao Zhang, Haipeng Dai, Dongyu Xia, Yang Pan, **Zeshui Li**, Wei Wang, Zhen Li, Lei Wang and Guihai Chen.<br />
 **ACM IMWUT(Ubicomp)**, 2024<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/mPGait.png" width="400" height="160" align="center"></P>
