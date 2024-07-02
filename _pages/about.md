@@ -22,6 +22,11 @@ Wireless sensing, Internet-of-Things
 
 Publication
 ---
+* <font color=DodgerBlue>mP-Gait: Fine-grained Parkinson’s Disease Gait Impairment Assessment with Robust Feature Analysis.<br /></font>
+Wenhao Zhang, Haipeng Dai, Dongyu Xia, Yang Pan, **Zeshui Li**, Wei Wang, Zhen Li, Lei Wang and Guihai Chen.<br />
+**ACM IMWUT(Ubicomp)**, 2024<br />
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/mPGait.png" width="400" height="160" align="center"></P>
+
 * <font color=DodgerBlue>PD-Gait: Contactless and Privacy-Preserving Gait Measurement of Parkinson's Disease Patients using Acoustic Signals.<br /></font>
 **Zeshui Li**, Yang Pan, Haipeng Dai, Wenhao Zhang, Zhen Li, Wei Wang and Guihai Chen.<br />
 **Software: Practice and Experience (SPE)**, 2023<br />
