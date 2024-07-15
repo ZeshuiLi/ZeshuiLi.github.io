@@ -12,7 +12,7 @@ This is the homepage of Zeshui Li. My research interests are <font color=red>Wir
 
 Biography
 ---
-I am a recent Ph.D graduate from Nanjing University, seeking a <font color=red>postdoctoral position</font> in the field of <font color=red>wireless sensing and human-computer interaction</font>. During my doctoral studies, I was supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also collaborated extensively with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
+I am a recent Ph.D graduate from Nanjing University. During my doctoral studies, I was supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also collaborated extensively with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
 From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
 Publication
