@@ -17,7 +17,7 @@ I am a Postdoctoral Research Fellow at [MEI Lab](https://meilab-hk.github.io/ind
 Publication
 ---
 * <font color=DodgerBlue>ProXeek: Seeking and Leveraging Real-World Objects and Environments as Haptic Proxies for Virtual Reality through Multimodal Reasoning.<br /></font>Haichen Gao, Tianrui Hu, **Zeshui Li**, and Kening Zhu.<br />
-**ACM CHI**, 2026<br />
+**ACM TOG & ACM SIGGRAPH**, 2026<br />
 <p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/LiqMetCraft.png" width="600" height="130" align="center"></P>
 
 * <font color=DodgerBlue>LiqMetCraft: A Toolkit for Creating Papercraft with Embedded Electronics By Directly Cutting and Folding
