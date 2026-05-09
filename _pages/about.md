@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 ---
-This is the homepage of Zeshui Li. My research interests are <font color=red>Wireless Sensing</font> and <font color=red>Internet-of-Things</font>. Welcome to share your questions and ideas with me.
+This is the homepage of Zeshui Li. My research interests are <font color=red>Wireless Sensing</font> and <font color=red>Haptics</font>. Welcome to share your questions and ideas with me.
 
 Biography
 ---
-I am a recent Ph.D graduate from Nanjing University. During my doctoral studies, I was supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and associate professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). I also collaborated extensively with professor [Wei Wang](http://cs.nju.edu.cn/ww/). 
-From 2011 to 2014, I am a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
+I am a Postdoctoral Research Fellow at [MEI Lab](https://meilab-hk.github.io/index.html), supervised by Professor [Kening Zhu](https://zhukening.wixsite.com/aboutme). I received my Ph.D. from Nanjing University, where I was supervised by Professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). During my doctoral studies, I also collaborated extensively with Professor [Wei Wang](http://cs.nju.edu.cn/ww/). Earlier in my career, from 2011 to 2014, I was a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
 
 Publication
 ---
