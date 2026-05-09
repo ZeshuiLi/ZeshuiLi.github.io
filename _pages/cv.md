@@ -26,7 +26,4 @@ Awards and Honors
 * 2018 Outstanding graduate students of Nanjing University
 * 2019 Supported by the program B for Outstanding PhD candidate of Nanjing University
 
-Publications
-------
-Conference Papers
-* [UbiComp'19] Zeshui Li, Haipeng Dai, Wei Wang, Alex X. Liu, and Guihai Chen. "PCIAS: Precise and Contactless Measurement of Instantaneous Angular Speed Using a Smartphone". In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp), London, UK, September 8-14, 2019.
+
