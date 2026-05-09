@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-This is the homepage of Zeshui Li. My research interests are <font color=red>Wireless Sensing</font> and <font color=red>Haptics</font>. Welcome to share your questions and ideas with me.
+This is the homepage of Zeshui Li. My research interests are <font color=red>Wireless Sensing</font> and <font color=red>Haptics</font>. Welcome to share your questions and ideas with me (zeshuili@cityu.edu.hk).
 
 Biography
 ---
