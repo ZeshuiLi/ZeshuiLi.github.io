@@ -18,7 +18,7 @@ Publication
 ---
 * <font color=DodgerBlue>ProXeek: Seeking and Leveraging Real-World Objects and Environments as Haptic Proxies for Virtual Reality through Multimodal Reasoning.<br /></font>Haichen Gao, Tianrui Hu, **Zeshui Li**, and Kening Zhu.<br />
 **ACM TOG & ACM SIGGRAPH**, 2026<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/ProXeek.png" width="380" height="140" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/ProXeek.png" width="340" height="140" align="center"></P>
 
 * <font color=DodgerBlue>LiqMetCraft: A Toolkit for Creating Papercraft with Embedded Electronics By Directly Cutting and Folding
 Liquid-Metal-Dyed Paper-like Fabric.<br /></font>Qi Zhang, Shuwen Jiang, **Zeshui Li**, Yong Lyu, Tiande Mo, and Kening Zhu.<br />
