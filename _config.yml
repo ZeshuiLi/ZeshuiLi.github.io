@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ZeshuiLi"
 title_separator          : "-"
 name                     : &name "ZeshuiLi"
-description              : &description "Ph.D graduated from Nanjing University."
+description              : &description "PostDoc from City University of Hong Kong."
 url                      : https://zeshuili.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZeshuiLi.github.io"
@@ -54,8 +54,8 @@ author:
   name             : "Zeshui Li"
   avatar           : "MeLittle.jpg"
   bio              : "李泽水"
-  location         : "Nanjing, JiangSu, China"
-  email            :  "zeshuili@163.com"
+  location         : "Hong Kong"
+  email            :  "zeshuili@cityu.edu.hk"
 
 # Reading Files
 include:
