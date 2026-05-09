@@ -18,7 +18,7 @@ Publication
 ---
 * <font color=DodgerBlue>LiqMetCraft: A Toolkit for Creating Papercraft with Embedded Electronics By Directly Cutting and Folding Liquid-Metal-Dyed Paper-like Fabric.<br /></font>Qi Zhang, Shuwen Jiang, **Zeshui Li**, Yong Lyu, Tiande Mo, and Kening Zhu.<br />
 **ACM CHI**, 2026<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/LiqMetCraft.png" width="600" height="160" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/LiqMetCraft.png" width="600" height="140" align="center"></P>
 
 * <font color=DodgerBlue>mP-Gait: Fine-grained Parkinson’s Disease Gait Impairment Assessment with Robust Feature Analysis.<br /></font>
 Wenhao Zhang, Haipeng Dai, Dongyu Xia, Yang Pan, **Zeshui Li**, Wei Wang, Zhen Li, Lei Wang and Guihai Chen.<br />
