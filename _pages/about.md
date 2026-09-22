@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 ---
-<p style="text-align: justify;">
 This is the homepage of Zeshui Li. My research interests are <font color=red>Wireless Sensing</font> and <font color=red>Haptics</font>. Welcome to share your questions and ideas with me (zeshuili@cityu.edu.hk).
-</p>
 
 Biography
 ---
-<p style="text-align: justify;">
 I am a Postdoctoral Research Fellow at [MEI Lab](https://meilab-hk.github.io/index.html), supervised by Professor [Kening Zhu](https://zhukening.wixsite.com/aboutme). I received my Ph.D. from Nanjing University, where I was supervised by Professor [Guihai Chen](http://cs.nju.edu.cn/gchen/) and Professor [Haipeng Dai](http://cs.nju.edu.cn/daihp/). During my doctoral studies, I also collaborated extensively with Professor [Wei Wang](http://cs.nju.edu.cn/ww/). Earlier in my career, from 2011 to 2014, I was a member of [XiaoMing-Lab](http://www.xiaoming-lab.com/).
-</p>
 
 Publication
 ---
