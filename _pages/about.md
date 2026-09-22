@@ -18,7 +18,7 @@ Publication
 ---
 * <font color=DodgerBlue>OmniTex: Omnidirectional Haptic Rendering of Surface Texture on VR Handheld Controller using 3-DOF Motion Mechanism.<br /></font>Tianrui Hu, Haichen Gao, **Zeshui Li**, and Kening Zhu.<br />
 **ACM UIST**, 2026<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/OmniTex.png" width="600" height="160" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/OmniTex.png" width="580" height="160" align="center"></P>
 
 * <font color=DodgerBlue>AirPalm: Exploring Airborne Haptic Feedback from Phone-Back Airflow on the Palm.<br /></font>
 Yibin Huai, Lina Zhang, **Zeshui Li**, and Kening Zhu.<br />
