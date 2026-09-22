@@ -19,7 +19,7 @@ Publication
 * <font color=DodgerBlue>AirPalm: Exploring Airborne Haptic Feedback from Phone-Back Airflow on the Palm.<br /></font>
 Yibin Huai, Lina Zhang, **Zeshui Li**, and Kening Zhu.<br />
 **ACM IMWUT(Ubicomp)**, 2026<br />
-<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/AirPalm.png" width="380" height="160" align="center"></P>
+<p align="center"><img src="https://raw.githubusercontent.com/ZeshuiLi/ZeshuiLi.github.io/master/images/AirPalm.png" width="320" height="160" align="center"></P>
 
 * <font color=DodgerBlue>ProXeek: Seeking and Leveraging Real-World Objects and Environments as Haptic Proxies for Virtual Reality through Multimodal Reasoning.<br /></font>Haichen Gao, Tianrui Hu, **Zeshui Li**, and Kening Zhu.<br />
 **ACM TOG & ACM SIGGRAPH**, 2026<br />
