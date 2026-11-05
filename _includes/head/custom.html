@@ -35,4 +35,8 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+{% if page.academic_home == true %}
+<link rel="stylesheet" href="{{ '/assets/css/academic-home.css' | relative_url }}">
+{% endif %}
+
 <!-- end custom head snippets -->
