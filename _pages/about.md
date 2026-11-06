@@ -49,7 +49,7 @@ redirect_from:
       <div>
         <h3 id="pub-omnitex">OmniTex: Omnidirectional Haptic Rendering of Surface Texture on VR Handheld Controller using 3-DOF Motion Mechanism.</h3>
         <p class="authors">Tianrui Hu, Haichen Gao, <strong>Zeshui Li</strong>, and Kening Zhu.</p>
-        <p class="venue"><strong>ACM UIST</strong> <span class="year">· 2026</span></p>
+        <p class="venue"><strong>ACM UIST</strong> <span class="year">· 2026</span> · <strong>🏆 Honourable Mention Award</strong></p>
       </div>
     </article>
     <article class="publication" aria-labelledby="pub-airpalm">
